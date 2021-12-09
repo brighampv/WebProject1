@@ -1,0 +1,118 @@
+.center {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+.boldimp {
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: large;
+}
+.bboldimp {
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: large;
+    color: white;
+}
+.details {
+    font-size: small;
+    font-style: italic;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.margins {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+li {
+    font-size: small;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: rgba(43, 43, 43, 0.815);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    color: rgb(74, 20, 173);
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.navigation {
+    text-align: right;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+
+
+}
+.topbody {
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    height: 150px;
+    z-index: 2;
+    background-color: #29117e;
+}
+.leftbody {
+    top:114px;
+    bottom:64px;
+    left:5px;
+    background-color: rgba(43, 43, 43, 0.815);
+     
+}
+div.mainbody1 {
+    top:114px;
+    left:100px;
+    right:100px;
+    bottom:25px;
+   
+}
+.align{
+    text-align: right;
+    color: rgb(41, 12, 146);
+    font-weight: bolder;
+}
+.titles {
+    font-weight: bolder;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 150px;
+} 
+.subtitles {
+    font-weight: bolder;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+  
+} 
+div.footers{
+    color: rgb(139, 139, 139);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    bottom: 0px;
+    position: relative;
+}
+div.parent {
+    position: relative;
+    height: 25px;
+    border: 2px solid #29117e;
+    background-color: whitesmoke;
+  }
+div.mainbody {
+    position: relative;
+    top: 114px;
+    left: 50px;
+    right: 50px;
+    bottom: 100px;
+}
+.ibody {
+    width:1100px;
+    position: relative;
+    flex-wrap: wrap;
+    background-color: black;
+}
